@@ -105,7 +105,6 @@ Signed,
 - Colin Caine, @cmcaine (Tridactyl and open scientific software)
 - Loren Segal, @lsegal (YARD, RubyDoc.info)
 - Laryn Kragt Bakker, @laryn (Backdrop CMS and CiviCRM contributor)
-- John-Mark Gurney, @jmgurney (personal, boycott GitHub)
 - Ibrahim Cesar, @ibrahimcesar (React Lite YouTube Embed)
 - Shawn Eisenach, @wholewheattoast (Artist and Software Developer)
 - Matheus Graciano, @graciano (tananã)
@@ -162,8 +161,6 @@ Signed,
 - Andrew-David Jahchan, @AndrewDavid (Definitely Not A Co, Wild Gamut)
 - Scott Matsuda, @Scotterpops19
 - Renée Kooi, @goto-bus-stop (browserify; Clinic.js; Uppy)
-- Fedor Indutny, @indutny (Node.js)
-- Kaylum Lally, @HiKaylum (Senior UX Developer, Accessibility Advocate)
-- Filipe Roman Veloso, @rovel (Umanni)
+- April H, @NthPortal (Scala contributor)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
